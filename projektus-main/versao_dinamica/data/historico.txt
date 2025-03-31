@@ -1,0 +1,4 @@
+periodo=3
+COMP359=7.0
+COMP360=7.5
+COMP361=7.3
